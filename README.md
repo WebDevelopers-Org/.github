@@ -1,38 +1,40 @@
-# WebDevelopers-Org
-
-<h1 align="center">🎨 WebDevelopers-Org</h1>
+<h1 align="center">⚛️ ReactDevs-Org</h1>
 <p align="center">
-  Welcome to <strong>WebDevelopers-Org</strong> – a community for **frontend developers** building **pure HTML, CSS, and JavaScript projects**!<br>
-  Learn, build, and collaborate on real-world frontend projects.
+  Welcome to <strong>ReactDevs-Org</strong> – an open-source community for **React.js developers**!<br>
+  Build, learn, and collaborate on modern React applications.
 </p>
 
 ---
 
 ## 📜 About
 
-WebDevelopers-Org is dedicated to **creating and sharing vanilla frontend projects**.  
-It’s a space for developers to:
+ReactDevs-Org is a place for developers to **create, share, and contribute to React.js projects**.  
+This organization is perfect for:
 
-- Build responsive and interactive web pages  
-- Showcase projects with pure HTML, CSS, and JavaScript  
-- Collaborate on open-source frontend projects  
+- Beginners and advanced React developers  
+- Open-source collaboration on React projects  
+- Showcasing component-based, dynamic, and interactive web apps  
 
 ---
 
 ## 💻 Featured Projects
 
-Here’s a selection of projects from our organization. Screenshots included for quick previews!  
+Here are some highlights from our organization. Screenshots included for easy preview!  
 
+### 1️⃣ React To-Do App
+![React To-Do App Screenshot](./screenshots/react-todo.png)  
+**Description:** A dynamic To-Do application built with React.js. Users can add, edit, delete, and mark tasks as completed.  
+**Repository:** [React To-Do App](https://github.com/Jones-6199/react-todo-app)
 
-### 2️⃣ Coffee Shop Website
-![Coffee Shop Screenshot](./screenshots/coffee-shop.png)  
-**Description:** A responsive Coffee Shop website showcasing menu items and smooth UI interactions.  
-**Repository:** [Coffee Shop](https://github.com/Jones-6199/coffee-shop)
-
-### 3️⃣ Full Ecommerce Website
+### 2️⃣ Pizza Menu App
 ![Pizza Menu Screenshot](./screenshots/pizza-menu.png)  
-**Description:** Browse pizzas with ingredients, prices, and interactive menu features using vanilla JavaScript.  
+**Description:** An interactive Pizza Menu built with React.js, allowing users to view ingredients, prices, and menu details.  
 **Repository:** [Pizza Menu](https://github.com/Jones-6199/pizza-menu)
+
+### 3️⃣ My Own Portfolio ( Benziane Younes Dev )
+![Coffee Shop Screenshot](./screenshots/coffee-shop-react.png)  
+**Description:** A stylish Coffee Shop website built with React.js, showcasing menu items with smooth UI interactions.  
+**Repository:** [Coffee Shop React](https://github.com/Jones-6199/coffee-shop-react)
 
 > Add more projects as your organization grows!
 
@@ -40,7 +42,7 @@ Here’s a selection of projects from our organization. Screenshots included for
 
 ## 🤝 Contribute
 
-We welcome **developers of all levels** to contribute!  
+We welcome **developers of all levels** to contribute to open-source React projects!  
 
 1. Fork the repository  
 2. Create a branch (`git checkout -b feature/project-name`)  
@@ -62,4 +64,4 @@ See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for detailed guidelines.
 
 ---
 
-<p align="center">Made with ❤️ by the WebDevelopers-Org community</p>
+<p align="center">Made with <> and lots of coffe ! </p>
