@@ -3,10 +3,10 @@
   
 </p>
 
-<h1 align="center">⚛️ ReactDevs-Org</h1>
+<h1 align="center">⚛️ 👋 Hey! Nice to see you, I'm Benziane Younes.</h1>
 <p align="center">
   Welcome to <strong>ReactDevs-Org</strong> – an open-source community for **React.js developers**!<br>
-  Build, learn, and collaborate on modern React applications.
+  Build, learn, share and collaborate on modern React applications.
 </p>
 
 ---
