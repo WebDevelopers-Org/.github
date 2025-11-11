@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  
+</p>
+
 <h1 align="center">⚛️ ReactDevs-Org</h1>
 <p align="center">
   Welcome to <strong>ReactDevs-Org</strong> – an open-source community for **React.js developers**!<br>
